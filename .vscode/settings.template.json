@@ -29,5 +29,7 @@
   "eslint.format.enable": true,
   "eslint.validate": ["javascript", "typescript"],
   /* Prettier */
-  "prettier.enable": true
+  "prettier.enable": true,
+  /* Jest */
+  "jest.runMode": "on-demand"
 }
